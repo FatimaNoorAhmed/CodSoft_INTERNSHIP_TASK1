@@ -1,0 +1,33 @@
+.Calculator{
+    text-align: center;
+    margin-top: 30px;
+}
+table{
+    margin:auto;
+}
+input{
+    font-size: 40px;
+    width: auto;
+    border: 4px solid black;
+   
+}
+button {
+    font-size: 50px;
+    background-color: aquamarine;
+    width: 120px;
+    height: 90px;
+    border-radius: 25px;
+    transition: background-color 0.3s; 
+}
+
+button:hover {
+    background-color:pink; 
+}
+
+.Unique{
+    border: 25px solid gray;
+    background-color: dimgray;
+    display: inline-block;
+    padding: 23px;
+    border-radius: 60px
+}
